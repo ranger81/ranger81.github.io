@@ -7,5 +7,8 @@ Stimpy is one of the two main characters in the television cartoon "The Ren & St
 * Loves to do cat things
 * Friendly
 * Supportive
+
 As Stimpy would like to say:
 > Jubel-Jubel, Freu Freu!
+
+<img src="https://vignette.wikia.nocookie.net/renandstimpy/images/c/c1/Ren-stimpy-25-anniversar-hp2.png/revision/latest?cb=20170521213914"/>
